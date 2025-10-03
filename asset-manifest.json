@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/srb-website/static/css/main.4345ce08.css",
+    "main.js": "/srb-website/static/js/main.7b7b4e51.js",
+    "index.html": "/srb-website/index.html",
+    "main.4345ce08.css.map": "/srb-website/static/css/main.4345ce08.css.map",
+    "main.7b7b4e51.js.map": "/srb-website/static/js/main.7b7b4e51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4345ce08.css",
+    "static/js/main.7b7b4e51.js"
+  ]
+}
